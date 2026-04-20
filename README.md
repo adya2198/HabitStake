@@ -19,6 +19,6 @@ HabitStake is a productivity application designed to help users track and mainta
 2. Navigate to the project directory: `cd HabitStake`
 3. Install dependencies: `npm install`
 4. Start the application: `npm start`
-5. Open your browser and go to `http://localhost:3000` to view the application.
+5. Open your browser and go to `http://localhost:5173` to view the application.
 
 For more detailed information, visit the project documentation or wiki.
